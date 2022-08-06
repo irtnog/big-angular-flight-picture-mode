@@ -1,0 +1,15 @@
+title: Big Angular Flight Picture Mode
+email: gtbUncleMattMan@AimedAtTheStars.org
+description: |-
+  Mr. Angular Velocity’s Steam Controller bindings for Elite: Dangerous, modified to support FA-off and Odyssey
+twitter_username: https://twitter.com/sternegerichtet
+repository: irtnog/big-angular-flight-picture-mode
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+header-pages:
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
