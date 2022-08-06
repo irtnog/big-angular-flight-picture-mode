@@ -1,0 +1,4 @@
+.bundle
+.rubygems
+_site
+Gemfile.lock
