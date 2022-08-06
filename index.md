@@ -9,7 +9,7 @@ _Mr. Angular Velocity's [Steam Controller bindings for Elite: Dangerous](https:/
 
 ### [Reference Card](https://docs.google.com/spreadsheets/d/1Kq_-igWF8gBGCXUd-xO4WzAUgmmJgPT9XFkpKyXXNZw/)
 
-## Installation
+# Installation
 
 1. Copy [Big Angular Flight Picture Mode.3.0.binds](Big Angular Flight Picture Mode.3.0.binds) and [Big Angular Flight Picture Mode.4.0.binds](Big Angular Flight Picture Mode.4.0.binds) to `%LOCALAPPDATA%\Frontier Developments\Elite Dangerous\Options\Bindings`.
 
@@ -21,7 +21,7 @@ _Mr. Angular Velocity's [Steam Controller bindings for Elite: Dangerous](https:/
 
 5. Select the **Big Angular Flight Picture Mode** bindings in game.
 
-## Device Mappings
+# Device Mappings
 
 TODO diagram
 
@@ -33,7 +33,7 @@ The Steam Controller combines the behavior of an Xbox 360 controller, a mouse, a
 - Touching the right trackpad simultaneously activates the gyroscope, which emulates a mouse.
 - The face buttons act like a second 4-way direction pad (A/B/X/Y).
 
-## Basic Flight
+# Basic Flight
 
 TODO diagram
 
@@ -64,7 +64,7 @@ Likewise, all ship functions are accessible from the controller:
 - Back button combos access utility functions, e.g., press Back plus Right to open the galaxy map.
 Refer to the reference card for a complete list of button combinations.
 
-## Advanced Flight
+# Advanced Flight
 
 Touching the right trackpad activates the gyroscope, which controls _pitch_ and _yaw_ via mouse emulation.
 The in-game bindings enable relative mouse movement with the maximum possible decay rate.
@@ -85,7 +85,7 @@ When the action layer is active, use the following key combinations to set the p
 - Hold Right, then press Right to set the distributor to 0-2-4.
 - Hold Down to set the distributor to 0-3-3.
 
-## User Interfaces
+# User Interfaces
 
 Navigate all menus using the direction pad.
 Some interfaces can be navigated using the left stick or gyroscope (mouse).
@@ -102,7 +102,7 @@ This can be used to paste destinations into the galaxy map search box or canned 
 
 Holding the Start button pauses the game (sends the Escape key).
 
-## Map Views
+# Map Views
 
 In the galaxy and system maps, the left stick (left/right) or the grip paddles (up/down) pan the camera.
 The triggers control the camera zoom.
@@ -112,7 +112,7 @@ In the Full Spectrum System Scanner (FSS), TODO
 
 In the Detailed Surface Scanner (DSS), TODO
 
-## Multicrew
+# Multicrew
 
 The ship-launched fighter uses controls similar to those described above.
 
@@ -122,10 +122,10 @@ The idle/gunner role makes the following changes to the controls:
 - Press Down to switch cockpit UI (radar display) modes.
 - Use the triggers to activate the primary (right trigger) and secondary utilities (left trigger).
 
-## Driving
+# Driving
 
 TODO
 
-## On Foot
+# On Foot
 
 TODO
