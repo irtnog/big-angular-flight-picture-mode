@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body data-spy="scroll" data-targets=".bs-docs-sidebar">
+    {%- include header.html -%}
+    <div class="jumbotron masthead">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
+    {%- include footer.html -%}
+</html>
